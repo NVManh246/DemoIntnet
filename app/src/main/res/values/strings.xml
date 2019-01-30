@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DemoIntnet</string>
+    <string name="input">Input</string>
+    <string name="open">Open</string>
+    <string name="ok">Ok</string>
 </resources>
